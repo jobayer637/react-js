@@ -1,0 +1,3 @@
+https://medium.com/@keikaavousi/introduction-to-fake-store-api-dummy-data-for-your-shopping-web-application-a759ad53f3e
+
+Get: https://fakestoreapi.com/products

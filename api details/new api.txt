@@ -1,0 +1,3 @@
+api key: 35db087cb28840dc9043b32a4d094d7b
+
+url: http://newsapi.org/v2/everything?q=bitcoin&from=2020-11-10&sortBy=publishedAt&apiKey=35db087cb28840dc9043b32a4d094d7b
